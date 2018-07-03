@@ -5,3 +5,11 @@ end
 def array_with_two_elements
   @my_new_array = ["happy","sad"]
 end
+
+def first_element(array)
+  array.first
+end
+
+def third_element
+  
+end
